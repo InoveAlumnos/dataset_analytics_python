@@ -3,14 +3,10 @@ Inove Escuela de Código\
 info@inove.com.ar\
 Web: [Inove](http://inove.com.ar)
 
-# Introducción a Python Analytics! [Python]
-En este repositorio encontrarán los siguientes archivos:
-
-__Ejemplos que el profesor mostrará en clase__\
-proba_estadistica.ipynb
-
-__Instructivo de instalación de herramientas__\
-requerimientos.txt
+# Datasets de Python Analytics! [Python]
+En este repositorio encontrarán los dataset que se utilizarán durante la cursada:\
+propiedades.csv
+partidos.csv
 
 # Consultas
 alumnos@inove.com.ar
