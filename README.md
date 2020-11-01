@@ -5,8 +5,7 @@ Web: [Inove](http://inove.com.ar)
 
 # Datasets de Python Analytics! [Python]
 En este repositorio encontrarán los dataset que se utilizarán durante la cursada:\
-propiedades.csv\
-partidos.csv
+(pendiente lista con información de c/u)
 
 # Consultas
 alumnos@inove.com.ar
